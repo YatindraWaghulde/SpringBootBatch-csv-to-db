@@ -20,9 +20,9 @@ public class Processor implements ItemProcessor<User, User> {
             new HashMap<>();
 
     public Processor() {
-        DEPT_NAMES.put("001", "Technology");
-        DEPT_NAMES.put("002", "Operations");
-        DEPT_NAMES.put("003", "Accounts");
+        DEPT_NAMES.put("001", "Accounts  Dept");
+        DEPT_NAMES.put("002", "IT Dept");
+        DEPT_NAMES.put("003", "Library Dept");
     }
 
     @Override
