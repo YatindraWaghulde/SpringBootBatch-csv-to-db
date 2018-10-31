@@ -5,6 +5,10 @@ import org.springframework.stereotype.Component;
 
 import com.yatindra.demo.model.User;
 
+/**
+ * @author Yatindra Waghulde
+ */
+
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;

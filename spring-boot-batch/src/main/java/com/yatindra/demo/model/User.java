@@ -1,5 +1,9 @@
 package com.yatindra.demo.model;
 
+/**
+ * @author Yatindra Waghulde
+ */
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.util.Date;
